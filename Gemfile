@@ -45,6 +45,9 @@ gem 'spring',        group: :development
 #Used devise gem for user authentication
 gem 'devise', '3.4.1'
 
+#Used paperclip gem for image uploads
+gem 'paperclip', '4.2.1'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
